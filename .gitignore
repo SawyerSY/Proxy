@@ -24,3 +24,6 @@
 hs_err_pid*
 
 .idea/
+target/classes/application.properties
+target/generated-sources/
+target/generated-test-sources/
